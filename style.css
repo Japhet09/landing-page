@@ -104,14 +104,16 @@ span{
 .big-five{
     display: flex;
     flex-direction: column;
-    padding-left: 20px;
-    justify-content: center;
     align-items: center;
-    flex: 1;
+    padding:5% 10%;
 }
 .big-five-img{
     display: flex;
-   
+
+}
+.big{
+    margin: 10px;
+    
 }
 
 
